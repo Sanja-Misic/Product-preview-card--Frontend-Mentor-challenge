@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[live site URL](https://your-live-site-url.com)](https://sanja-misic.github.io/Product-preview-card--Frontend-mentor-challenge/)
+- Live Site URL: [[live site URL](https://sanja-misic.github.io/Product-preview-card--Frontend-mentor-challenge/)]
 
 ## My process
 
